@@ -1,0 +1,2 @@
+# Yfinance
+Notes for Yfinance
